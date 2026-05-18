@@ -12,3 +12,6 @@ A simple script that takes user input in seconds and counts down in an HH:MM:SS 
 ### 3. Shoping cart program
 A simple python program that takes user input and places it in an empty list.
 * Key features: Uses lists to store data, while loop to collect data, for loop to print and calculate.
+### 4. Simple quiz game
+A quiz that asks questions takes in answers and returns a score.
+* Key features: Uses lists and tuples, for loops, append method.
